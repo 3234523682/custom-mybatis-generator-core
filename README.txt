@@ -1,0 +1,2 @@
+自定义mybatis-generator-core
+自定义注释：org.mybatis.generator.internal.RemarksCommentGenerator
